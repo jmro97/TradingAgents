@@ -30,13 +30,17 @@ dependencies = [
     "tqdm>=4.67.1",
     "typing-extensions>=4.14.0",
     "yfinance>=0.2.63",
+    "openai>=1.79.0",
+    "pydantic>=2.11.0",
+    "python-dotenv>=1.1.0",
 ]
 
 [project.scripts]
 tradingagents = "cli.main:app"
+banking-news-agent = "banking_news_agent.cli:main"
 
 [tool.setuptools.packages.find]
-include = ["tradingagents*", "cli*"]
+include = ["tradingagents*", "cli*", "banking_news_agent*"]
 
 [tool.setuptools.package-data]
 cli = ["static/*"]
