@@ -1,0 +1,24 @@
+{
+  "generated_for": "2026-04-08",
+  "generated_at": "2026-04-08T09:00:00+00:00",
+  "top_5_news": [
+    {
+      "title": "ECB hints prolonged higher rates as inflation services component stays sticky",
+      "source": "Financial Times",
+      "published_at": "2026-04-08",
+      "url": "https://example.com/ecb-rates",
+      "executive_summary": "El BCE refuerza un sesgo de tipos elevados más tiempo ante inflación de servicios persistente.",
+      "why_it_matters": "Presiona coste de financiación y mix de depósitos.",
+      "expected_impact_on_banking": "Mejora margen en corto plazo, pero eleva riesgo de crédito.",
+      "urgency": "alta",
+      "relevance_score": 92
+    }
+  ],
+  "all_ranked_news": [],
+  "executive_summary_200w": "Jornada marcada por señales de política monetaria restrictiva, nuevas exigencias supervisoras y presión competitiva en pagos. Las entidades deben equilibrar margen financiero con calidad de activos en un contexto de crecimiento moderado.",
+  "watch_topics": [
+    "Repricing de depósitos y sensibilidad del margen",
+    "Evolución de mora en consumo y pymes",
+    "Ritmo regulatorio en capital y liquidez"
+  ]
+}
